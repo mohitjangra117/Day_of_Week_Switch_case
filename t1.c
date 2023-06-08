@@ -2,7 +2,7 @@
 int main()
 
 {
-
+// This is Mohitjangra876
 int day;
 printf("Enter the day:");
 scanf("%d",&day);
